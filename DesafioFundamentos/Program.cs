@@ -20,7 +20,7 @@ string opcao = string.Empty;
 bool exibirMenu = true;
 
 // Realiza o loop do menu
-while (exibirMenu)
+while (exibirMenu) 
 {
     Console.Clear();
     Console.WriteLine("Digite a sua opção:");
